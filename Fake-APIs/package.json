@@ -1,0 +1,14 @@
+{
+  "name": "fake-apis",
+  "version": "1.0.0",
+  "description": "Fake APIs with Json-server",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch -p 4000 db.json"
+  },
+  "author": "Apoorva gholak",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}

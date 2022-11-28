@@ -1,0 +1,107 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Preparing for the Future with React Prereleases",
+      "body": "To share upcoming changes with our partners in the React ecosystem, we’re establishing official prerelease channels. We hope this process will help us make changes to React with confidence, and give developers the opportunity to try out experimental features.",
+      "userId": 8,
+      "reactions": {
+        "thumbsUp": 1,
+        "wow": 1,
+        "heart": 1,
+        "rocket": 1,
+        "coffee": 1
+      }
+    },
+    {
+      "id": 2,
+      "title": "Building Great User Experiences with Concurrent Mode and Suspense",
+      "body": "At React Conf 2019 we announced an experimental release of React that supports Concurrent Mode and Suspense. In this post we’ll introduce best practices for using them that we’ve identified through the process of building the new facebook.com.",
+      "userId": 10
+    },
+    {
+      "id": 3,
+      "title": "React v16.9.0 and the Roadmap Update",
+      "body": "Today we are releasing React 16.9. It contains several new features, bugfixes, and new deprecation warnings to help prepare for a future major release.",
+      "userId": 2
+    },
+    {
+      "id": 4,
+      "title": "Introducing the New React DevTools",
+      "body": "We are excited to announce a new release of the React Developer Tools, available today in Chrome, Firefox, and (Chromium) Edge!",
+      "userId": 3
+    },
+    {
+      "id": 5,
+      "title": "Create React App 2.0: Babel 7, Sass, and More",
+      "body": "Create React App 2.0 has been released today, and it brings a year’s worth of improvements in a single dependency update.",
+      "userId": 4
+    },
+    {
+      "id": 6,
+      "title": "You Probably Don't Need Derived State",
+      "body": "React 16.4 included a bugfix for getDerivedStateFromProps which caused some existing bugs in React components to reproduce more consistently. If this release exposed a case where your application was using an anti-pattern and didn’t work properly after the fix, we’re sorry for the churn. In this post, we will explain some common anti-patterns with derived state and our preferred alternatives.",
+      "userId": 5
+    },
+    {
+      "id": 7,
+      "title": "React v16.6.0: lazy, memo and contextType",
+      "body": "Today we’re releasing React 16.6 with a few new convenient features. A form of PureComponent/should ComponentUpdate for function components, a way to do code splitting using Suspense and an easier way to consume Context from class components.",
+      "userId": 10,
+      "reactions": {
+        "thumbsUp": 0,
+        "wow": 0,
+        "heart": 0,
+        "rocket": 0,
+        "coffee": 0
+      }
+    },
+    {
+      "id": 8,
+      "title": "React Conf recap: Hooks, Suspense, and Concurrent Rendering",
+      "body": "This year’s React Conf took place on October 25 and 26 in Henderson, Nevada, where more than 600 attendees gathered to discuss the latest in UI engineering.",
+      "userId": 8
+    },
+    {
+      "id": 10,
+      "title": "hey there",
+      "body": "you you",
+      "userId": "9",
+      "reactions": {
+        "thumbsUp": 0,
+        "wow": 0,
+        "heart": 0,
+        "rocket": 0,
+        "coffee": 0
+      }
+    },
+    {
+      "title": "hey there",
+      "body": "hhfh",
+      "userId": "10",
+      "id": 11
+    },
+    {
+      "title": "hey there",
+      "body": "t",
+      "userId": "10",
+      "id": 12
+    },
+    {
+      "title": "Hey There! its updates",
+      "body": "v",
+      "userId": "9",
+      "id": 13
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
